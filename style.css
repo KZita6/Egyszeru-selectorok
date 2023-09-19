@@ -1,12 +1,12 @@
-.asteroid big, .asteroid b329 big{
+.asteroid.b329.big, .asteroid.big{
     color:blue;
 }
-.asteroid, .asteroid b326{
+#b325, .asteroid.b326{
     border: 1px solid green;
 }
-.asteroid, .asteroid b326, .asteroid b329 big{
+#b325, .asteroid.b326, .asteroid.b329.big{
     font-weight: bold;
 }
-.asteroid big{
+p{
     background-color: yellow;
 }
